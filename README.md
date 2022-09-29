@@ -7,4 +7,4 @@ Dont Not Replace qb-spawn with this ⚠⚠⚠⚠⚠
 ![showcase](https://cdn.discordapp.com/attachments/980554127719432192/1024892828771438603/spawn.PNG)
 
 *
-For Support :- https://discord.gg/VxSnEaCTPW
+For Support or installation :- https://discord.gg/VxSnEaCTPW
